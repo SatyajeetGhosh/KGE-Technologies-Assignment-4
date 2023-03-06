@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Get Screen Resolution of Mobile Devices with JavaScript</title>
+</head>
+<body>
+    <button onclick="getNumber();">Find No. of Screens</button>
+    <p id="display"></p>
+
+    <script>
+        function getNumber(){
+            const no_of_screens = window.screen.availWidth / window.innerWidth;
+            document.getElementById('display').innerText = "The user is using " + no_of_screens + "monitor(s)";
+        }
+    </script>
+</body>
+</html>
+
+<!-- Chat Gpt Code
+
+function getNumberOfMonitors() {
+  const screenCount = window.screen.availWidth / window.innerWidth;
+  return screenCount;
+}
+
+const numberOfMonitors = getNumberOfMonitors();
+console.log(`The user is using ${numberOfMonitors} monitor(s).`);-->
