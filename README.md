@@ -4,6 +4,8 @@
 
 <p>Tech stack Used: HTML, Javascript</p>
 
+<p><a href="https://satyajeetghosh.github.io/KGE-Technologies-Assignment-4/" target="_blank">Click here<a/> for a preview or go to https://satyajeetghosh.github.io/KGE-Technologies-Assignment-4/<p/> 
+
 <h3>Resources:</h3>
 <ul>
 <li><a href="https://www.w3schools.com/">HTML, CSS, Javascript</a></li>
