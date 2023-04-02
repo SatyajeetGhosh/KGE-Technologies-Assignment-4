@@ -3,8 +3,8 @@
 <p>My 4th assignment was a proof of concept work where I was asked to write the JavaScript code to find the no. of screens a user is using.<p/>
 
 <p>Tech stack Used: HTML, Javascript</p>
-
-<p><a href="https://satyajeetghosh.github.io/KGE-Technologies-Assignment-4/" target="_blank">Click here<a/> for a preview or go to https://satyajeetghosh.github.io/KGE-Technologies-Assignment-4/<p/> 
+  
+<p><a href="https://satyajeetghosh.github.io/KGE-Technologies-Assignment-4/" target="_blank">Click here</a> for a preview or go to https://satyajeetghosh.github.io/KGE-Technologies-Assignment-4/</p>
 
 <h3>Resources:</h3>
 <ul>
